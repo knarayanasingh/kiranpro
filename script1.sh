@@ -4,3 +4,4 @@ echo "**************************"
 mkdir /var/tmp/projectgitone
 cd /var/tmp/projectgitone
 touch one two
+ls
